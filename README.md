@@ -21,6 +21,6 @@ As the tech industry evolves rapidly, I am committed to continuous learning and 
 
 ### 📫 Let's Get in Touch
 
-If you're interested in collaborating on backend projects, have any inquiries, or just want to connect, feel free to reach out to me. You can contact me via Email at `robin-erik@outlook.com` or on my Discord `dezzel`.
+If you're interested in collaborating on backend projects, have any inquiries, or just want to connect, feel free to reach out to me. You can contact me via Discord at `dezzel`.
 
 Thank you for visiting my GitHub profile. Have a wonderful day!
