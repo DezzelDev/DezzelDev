@@ -19,8 +19,4 @@ With over 4 years of experience as a Backend Developer, I have worked on various
 
 As the tech industry evolves rapidly, I am committed to continuous learning and staying updated with the latest backend development trends. I actively explore new tools and methodologies to enhance my skills and deliver cutting-edge solutions.
 
-### 📫 Let's Get in Touch
-
-If you're interested in collaborating on backend projects, have any inquiries, or just want to connect, feel free to reach out to me. You can contact me via Email at `robin-erik@outlook.com`
-
 Thank you for visiting my GitHub profile. Have a wonderful day!
